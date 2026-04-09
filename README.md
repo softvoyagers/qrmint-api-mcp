@@ -36,7 +36,9 @@ Add to your MCP client configuration (e.g. `claude_desktop_config.json`):
 
 ## Tool Usage Examples
 
-### Generate a simple QR code
+### Generate a QR code for a URL
+
+Generate QR codes for any URL — see the [URL QR code guide](https://qrmint.dev/qr-code-url) for formatting tips and examples.
 
 ```
 Use generate_qr_code to create a QR code for https://example.com
@@ -97,6 +99,7 @@ Part of the [SoftVoyagers](https://github.com/softvoyagers) free API portfolio.
 | Faktuj | [faktuj.pl](https://faktuj.pl) | Polish invoice generator |
 | QRMint | [qrmint.dev](https://qrmint.dev) | Styled QR code generator API |
 | PageDrop | [pagedrop.dev](https://pagedrop.dev) | Instant HTML hosting API |
+| PismoSzyteNaMiarę | [pismoszytenamiare.pl](https://pismoszytenamiare.pl) | AI-powered formal letter generator (Polish) |
 
 ## License
 
